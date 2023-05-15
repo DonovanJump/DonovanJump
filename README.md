@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello 👋
+Welcome to my Github
+I'm Donovan Jump a rising 3rd year Software Engineer at RIT
+
+### Most Recent Academic Project
+Unfortunately the repository is private.
+
+### Currently Working On
+Working at BPS consulting as an intern
 
 <!--
 **Donthebear/Donthebear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
