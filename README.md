@@ -1,12 +1,45 @@
-### Hello 👋
-Welcome to my Github
-I'm Donovan Jump a rising 3rd year Software Engineer at RIT
+<h1 align="center">👋 Hey there! I'm Donovan Jump</h1>
+<h3 align="center">A Passionate Software Engineer from RIT 🚀</h3>
 
-### Most Recent Academic Project
-Unfortunately the repository is private.
+<p align="center">
+    <img src="https://img.shields.io/badge/Year-3rd-blue?style=flat-square" alt="Year: 3rd">
+    <img src="https://img.shields.io/badge/School-RIT-orange?style=flat-square" alt="School: RIT">
+</p>
 
-### Currently Working On
-Working at BPS consulting as an intern
+---
+
+🔍 **About Me**
+
+- 👨‍💻 Studying Software Engineering at the **Rochester Institute of Technology**.
+- 📫 Reach out to me: [Email](donovan.s.jump@gmail.com) | [LinkedIn]([your-linkedin-link](https://www.linkedin.com/in/donovanjump/))
+
+---
+
+💼 **Professional Experience**
+
+- 🖥️ Currently working as an **Intern** at **BPS Consulting**.
+
+---
+
+📚 **Academic Highlights**
+
+- 📖 **Most Recent Academic Project:** Sorry, it's under wraps for now (private repository).
+---
+
+💡 **What I'm Up To**
+
+- ⚒️ Sharpening my skills in React and Typscript.
+- 📝 Planning to start a new personal project on Computer Vision.
+
+---
+
+🤝 **Let's Connect!**
+
+Always eager to make connections and collaborate on interesting projects. Feel free to reach out!
+
+- 💼 LinkedIn: [Donovan Jump]([your-linkedin-link](https://www.linkedin.com/in/donovanjump/))
+
+---
 
 <!--
 **Donthebear/Donthebear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
