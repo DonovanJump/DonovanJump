@@ -3,7 +3,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/Year-3rd-blue?style=flat-square" alt="Year: 3rd">
-    <img src="https://img.shields.io/badge/School-RIT-orange?style=flat-square" alt="School: RIT">
+    <a href="https://www.rit.edu/study/software-engineering-bs"><img src="https://img.shields.io/badge/School-RIT-orange?style=flat-square" alt="School: RIT"></a>
 </p>
 
 ---
