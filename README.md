@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Software Engineer from RIT 🚀</h3>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Year-3rd-blue?style=flat-square" alt="Year: 3rd">
+    <a href="https://www.rit.edu/study/curriculum/dfa1b709-dde6-4686-850d-908a45d99ba0"><img src="https://img.shields.io/badge/Year-3rd-blue?style=flat-square" alt="Year: 3rd"></a>
     <a href="https://www.rit.edu/study/software-engineering-bs"><img src="https://img.shields.io/badge/School-RIT-orange?style=flat-square" alt="School: RIT"></a>
 </p>
 
