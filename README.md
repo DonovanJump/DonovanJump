@@ -17,7 +17,7 @@
 
 💼 **Professional Experience**
 
-- 🖥️ Currently working as an **Intern** at **BPS Consulting**.
+- 🖥️ Summer of 2023 worked as an **Intern** at **BPS Consulting**.
 
 ---
 
