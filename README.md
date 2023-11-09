@@ -11,7 +11,7 @@
 🔍 **About Me**
 
 - 👨‍💻 Studying Software Engineering at the **Rochester Institute of Technology**.
-- 📫 Reach out to me: [Email](donovan.s.jump@gmail.com) | [LinkedIn]([your-linkedin-link](https://www.linkedin.com/in/donovanjump/))
+- 📫 Reach out to me: [Email](donovan.s.jump@gmail.com) | [LinkedIn]([https://www.linkedin.com/in/donovanjump/](https://www.linkedin.com/in/donovanjump/))
 
 ---
 
