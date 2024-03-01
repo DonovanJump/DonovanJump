@@ -28,7 +28,7 @@
 
 💡 **What I'm Up To**
 
-- ⚒️ Sharpening my skills in React and Typscript.
+- ⚒️ Sharpening my skills in React and Typescript.
 - 📝 Planning to start a new personal project on Computer Vision.
 
 ---
