@@ -15,24 +15,6 @@
 
 ---
 
-💼 **Professional Experience**
-
-- 🖥️ Summer of 2023 worked as an **Intern** at **Business Performance Systems Consulting**.
-
----
-
-📚 **Academic Highlights**
-
-- 📖 **Most Recent Academic Project:** Sorry, it's under wraps for now (private repository).
----
-
-💡 **What I'm Up To**
-
-- ⚒️ Sharpening my skills in React and Typescript.
-- 📝 Planning to start a new personal project on Computer Vision.
-
----
-
 🤝 **Let's Connect!**
 
 Always eager to make connections and collaborate on interesting projects. Feel free to reach out!
