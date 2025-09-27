@@ -10,7 +10,7 @@
 
 🔍 **About Me**
 
-- 👨‍💻 Studying Software Engineering at the **Rochester Institute of Technology**.
+- 👨‍💻 Completed my Software Engineering BS degree at the **Rochester Institute of Technology**.
 - 📫 Reach out to me: [Email](donovan.s.jump@gmail.com) | [LinkedIn](https://www.linkedin.com/in/donovanjump/)
 
 ---
