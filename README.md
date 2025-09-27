@@ -8,18 +8,18 @@
 
 ---
 
-🔍 **About Me**
+**About Me**
 
-- 👨‍💻 Completed my Software Engineering BS degree at the **Rochester Institute of Technology**.
-- 📫 Reach out to me: [Email](donovan.s.jump@gmail.com) | [LinkedIn](https://www.linkedin.com/in/donovanjump/)
+-  Completed my Software Engineering BS degree at the **Rochester Institute of Technology**.
+-  Reach out to me: [Email](donovan.s.jump@gmail.com) | [LinkedIn](https://www.linkedin.com/in/donovanjump/)
 
 ---
 
-🤝 **Let's Connect!**
+**Let's Connect!**
 
 Always eager to make connections and collaborate on interesting projects. Feel free to reach out!
 
-- 💼 LinkedIn: [Donovan Jump]([your-linkedin-link](https://www.linkedin.com/in/donovanjump/))
+-  LinkedIn: [Donovan Jump]([your-linkedin-link](https://www.linkedin.com/in/donovanjump/))
 
 ---
 
