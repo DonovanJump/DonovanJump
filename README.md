@@ -9,13 +9,6 @@
 -  Reach out to me: [Email](donovan.s.jump@gmail.com) | [LinkedIn](https://www.linkedin.com/in/donovanjump/)
 
 ---
-
-**Let's Connect!**
-
-Always eager to make connections and collaborate on interesting projects. Feel free to reach out!
-
--  LinkedIn: [Donovan Jump]([your-linkedin-link](https://www.linkedin.com/in/donovanjump/))
-
 ---
 
 <!--
